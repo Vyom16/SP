@@ -9,9 +9,6 @@ int main()
     cin>>l;
     cout<<"Enter Child number: ";
     cin>>k;
-
-    
-    
     int x=k;
 
     for(int j=0;j<(l-1);j++)
