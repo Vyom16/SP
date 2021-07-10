@@ -61,8 +61,6 @@ int main()
         cout<<mini<<" ";
         mini=a[z];
         x=x+k;
-
-
     }
     cout<<endl;
     cout<<maxi;
