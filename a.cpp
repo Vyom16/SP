@@ -2,9 +2,6 @@
 using namespace std;
 int main()
 {
-    int l,k;
-    int w=1;
-    int z=0;
     int mini=100;
     int maxi=0;
     int a[20];
